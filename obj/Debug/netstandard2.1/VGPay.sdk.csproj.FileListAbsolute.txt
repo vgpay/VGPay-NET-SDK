@@ -1,0 +1,9 @@
+F:\myroot\play559-2\VGPay.sdk\bin\Debug\netstandard2.1\VGPay.sdk.deps.json
+F:\myroot\play559-2\VGPay.sdk\bin\Debug\netstandard2.1\VGPay.sdk.dll
+F:\myroot\play559-2\VGPay.sdk\bin\Debug\netstandard2.1\VGPay.sdk.pdb
+F:\myroot\play559-2\VGPay.sdk\obj\Debug\netstandard2.1\VGPay.sdk.AssemblyInfoInputs.cache
+F:\myroot\play559-2\VGPay.sdk\obj\Debug\netstandard2.1\VGPay.sdk.AssemblyInfo.cs
+F:\myroot\play559-2\VGPay.sdk\obj\Debug\netstandard2.1\VGPay.sdk.csproj.CoreCompileInputs.cache
+F:\myroot\play559-2\VGPay.sdk\obj\Debug\netstandard2.1\VGPay.sdk.dll
+F:\myroot\play559-2\VGPay.sdk\obj\Debug\netstandard2.1\VGPay.sdk.pdb
+F:\myroot\play559-2\VGPay.sdk\obj\Debug\netstandard2.1\VGPay.sdk.csprojAssemblyReference.cache
